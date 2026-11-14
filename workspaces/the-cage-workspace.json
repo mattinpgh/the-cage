@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "sessions": [
+    {
+      "id": "0ccd750e-34be-4104-8899-6f50e7d66933",
+      "title": "Looking for Eliath in all the Wrong Places",
+      "number": "01",
+      "date": "2026-11-18",
+      "notes": "This is the initial session where the PCs get the job and go opn walkabout",
+      "scenes": [
+        {
+          "id": "a83d00d8-d5d6-4d56-b66b-89533122d7c6",
+          "title": "At the Cipher spot",
+          "purpose": "This is a negotiation scene where the party meets with the Ciphers to get the mission to find Eliath",
+          "locations": "At the gym?",
+          "npcs": "Factotum",
+          "tension": "Nada",
+          "goals": "To get the job",
+          "threadIds": [
+            "5f628051-bad7-40d9-a397-e599b2dded09"
+          ]
+        }
+      ],
+      "threadIds": [
+        "5f628051-bad7-40d9-a397-e599b2dded09"
+      ],
+      "outcomes": {
+        "happened": "",
+        "consequences": "",
+        "discoveries": "",
+        "hooks": ""
+      },
+      "createdAt": "2026-11-14T01:44:47.853Z",
+      "updatedAt": "2026-11-14T01:51:29.529Z"
+    }
+  ],
+  "threads": [
+    {
+      "id": "5f628051-bad7-40d9-a397-e599b2dded09",
+      "name": "Factotum Jollibee",
+      "description": "How many times can they meet this guy?",
+      "status": "open"
+    }
+  ],
+  "currentSessionId": "0ccd750e-34be-4104-8899-6f50e7d66933"
+}
